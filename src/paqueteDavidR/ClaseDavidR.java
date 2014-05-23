@@ -12,7 +12,7 @@ package paqueteDavidR;
  */
 public class ClaseDavidR {
     public static void main(String[] args) {
-        System.out.println("Hola!");
+        System.out.println("Hola mundo!");
     }
    
 }
