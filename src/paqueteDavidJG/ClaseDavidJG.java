@@ -13,6 +13,6 @@ package paqueteDavidJG;
 public class ClaseDavidJG {
   public static void main(String[] args) {
         System.out.println("Hola mundo!. Soy DavidJG.");
-        System.out.println("Es un trabajo de entornos");
+        System.out.println("Es un trabajo de Entornos");
     }  
 }
